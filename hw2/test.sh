@@ -1,2 +1,2 @@
 #!/bin/bash
-python $1 $2 $3
+python logistic_regression_test.py $1 $2 $3
