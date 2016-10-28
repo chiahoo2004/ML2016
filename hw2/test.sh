@@ -1,2 +1,2 @@
 #!/bin/bash
-python logistic_regression_test.py $1 $2 $3
+python decision_tree_test.py $1 $2 $3
